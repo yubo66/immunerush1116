@@ -1,0 +1,9 @@
+/local.properties
+/.gradle/
+/build/
+/launcher/build/
+/unityLibrary/build/
+/unityLibrary/.cxx/
+/unityLibrary/symbols/
+*.apk
+.DS_Store
