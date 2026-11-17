@@ -22,3 +22,5 @@ Validation (2026-11-16):
 
 Publish this repository to GitHub and submit its URL plus the full 40-character commit ID.
 No signing keys, APKs, local.properties, or IL2CPP compiler sources are included.
+
+Update 2026-11-17: identity panel now reads 保持活力，拾取营养补给 / 躲避血栓障碍，消灭病毒. Re-exported and forced-precompiled IL2CPP; both release builds passed, all 16 native-library hashes match before/after cleanup, and the new text was verified in global-metadata.dat. Nine 16 KB alignment warnings remain.
